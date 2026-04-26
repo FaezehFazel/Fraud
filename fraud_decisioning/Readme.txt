@@ -157,4 +157,4 @@ This project demonstrates how **agentic AI workflows** can be applied to fraud a
 
 ## Author
 
-[Your Name]
+Faezeh Fazel 
